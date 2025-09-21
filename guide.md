@@ -1,6 +1,6 @@
 # Гайд по System Design
 
-# Ссылки
+## 📬 Контакты
 
 - [Моя группа в Telegram](https://t.me/software_noise)
 - [Мой YouTube канал](https://www.youtube.com/@PavelVil)
